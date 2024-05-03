@@ -1,7 +1,7 @@
 body
 {
-    background:#1e1f24;
-    color:#333;
+    background:hwb(0 93% 6%);
+    color:hwb(0 6% 90%);
     text-align:center;
     font-family:Arial;
     font-size:16px;
@@ -48,6 +48,19 @@ body
 
 #post
 {
+<<<<<<< HEAD
     background:#fff;
     padding:1em
 }
+=======
+    padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+>>>>>>> footer
